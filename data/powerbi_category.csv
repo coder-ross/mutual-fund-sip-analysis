@@ -1,0 +1,5 @@
+category,total_funds,avg_cagr,best_cagr,avg_sharpe,avg_volatility,avg_drawdown
+Index Fund,8,14.88,22.43,0.52,17.92,-35.93
+Large Cap,6,16.55,20.39,0.64,16.88,-36.6
+Mid Cap,10,20.56,25.7,0.8,16.49,-31.6
+Small Cap,9,24.78,35.54,0.98,17.9,-37.47
