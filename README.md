@@ -127,9 +127,9 @@ Total invested in each fund: **₹3,05,000**
 | Category | Average returns | Best fund | Best fund returns |
 |---|---|---|---|
 | Small Cap | 119% | Quant Small Cap | 174.97% |
-| Mid Cap | 107.72% | Edelweiss Mid Cap | 144.23% |
-| Large Cap | 79.31% | — | — |
-| Index Fund | — | Motilal Oswal Nifty Midcap 150 | 118.85% |
+| Mid Cap | 88.72% | Edelweiss Mid Cap | 100.2% |
+| Large Cap | 67.51% | Parag Parikh Flexi Cap Fund | 71.7% |
+| Index Fund | 72.24% | Motilal Oswal Nifty Midcap 150 |83.7%  |
 
 The best result: ₹3,05,000 put into Quant Small Cap through monthly SIP became **₹8,38,659**.
 That is a profit of ₹5,33,659 — almost 3x the original investment — through a simple ₹5,000 monthly SIP.
