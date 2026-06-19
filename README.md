@@ -223,9 +223,8 @@ The Sharpe Ratio was more useful than raw returns for comparing funds fairly. A 
 
 ## About
 
-**Ishank Kumar** | Aspiring Data Analyst
-Looking for roles at Groww, Smallcase, Zerodha, PhonePe, and fintech companies
-Python · SQL · Pandas · Matplotlib · Power BI
+**Ishank Kumar** | Aspiring Data and Business Analyst
+(Python · SQL · Pandas · Matplotlib · Power BI)
 
 ---
 
